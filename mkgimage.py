@@ -20,7 +20,7 @@ boot_part = Partition(
     )
 disk.table.partitions.add(boot_part)
 
-# create an 8MB Linux partition named "data"
+# create an 8MB Linux partition named "data" .  
 data_part = Partition(
         "data", 
         8 * 1024 * 1024, 
