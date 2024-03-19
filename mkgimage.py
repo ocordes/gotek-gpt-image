@@ -6,7 +6,7 @@ import sys
 
 
 from gpt_image.disk import Disk
-from gpt_image.partition import Partition, PartitionType
+from gpt_image.partition import Partition, PartitionType 
 
 # create a new, 16 MB disk, size is in bytes
 disk = Disk("disk-image.raw")
