@@ -1,3 +1,3 @@
-autopep8==2.1.0
+autopep8==2.1.1
 -e git+ssh://git@github.com/ocordes/gpt-image.git@7823da3ee3878b0a6d9fb875a045998e81322419#egg=gpt_image
 pycodestyle==2.11.1
